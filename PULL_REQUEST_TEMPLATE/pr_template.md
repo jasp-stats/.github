@@ -22,6 +22,12 @@ See the documentation at https://docs.github.com/en/issues/tracking-your-work-wi
     - Example
       - The variance check in the ANOVA was too strict.
 -->
+- [ ] I have updated the help files, if appropriate.
+<!---
+The help files are in inst/help.
+Please update these if you add any new features, no matter how small.
+Also use e.g., deepl to update the translated help files.
+-->
 - [ ] I have added unit tests or an explanation why no tests are needed.
 <!---
 Example: 'this bug is only reproducible in Jasp because it has to do with the state.'
